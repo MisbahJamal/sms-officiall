@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DcssePortal.Model",
+    "\\DcssePortal.Web",
+    "\\DcssePortal.Web\\Controllers",
+    "\\DcssePortal.Web\\Views",
+    "\\DcssePortal.Web\\Views\\Home"
+  ],
+  "SelectedNode": "\\DcssePortal.Web\\Views\\Home\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}
